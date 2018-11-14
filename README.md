@@ -37,7 +37,8 @@ $vagrant up
 
 ## Problem Statements
 
-- Problem statements as real world examples to exercise PostgreSQL and Time series data and tackle the problem.
+- Are examples to exercise PostgreSQL and Time series data.
+- Not all Time-series problems are the same and should therefor be approached differently. 
 
 
  
